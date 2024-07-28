@@ -10,10 +10,10 @@
 
 <br>
 
+- 🔭 I was done **Mental Health Management System**
+- 🔭 I was done **Library Management System**
 
-- 🔭 I’m currently working on **Library Management System**
-
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **chathushkalahiru@gmail.com**
 
